@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "paddle-cluster",
+    "description": "",
+    "home_page_url": "https://paddle-cluster.github.io",
+    "feed_url": "https://paddle-cluster.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thomas Hillman"
+    },
+    "items": [
+        {
+            "id": "https://paddle-cluster.github.io/test.html",
+            "url": "https://paddle-cluster.github.io/test.html",
+            "title": "Test",
+            "summary": "Test",
+            "content_html": "Test",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-15T10:52:55+01:00",
+            "date_modified": "2020-02-15T10:52:55+01:00"
+        }
+    ]
+}
