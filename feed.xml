@@ -1,32 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>paddle-cluster</title>
+    <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-02-15T10:53:01+01:00</updated>
+    <updated>2020-02-15T13:17:40+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
     <id>https://paddle-cluster.github.io</id>
 
     <entry>
-        <title>Test</title>
+        <title>Reading group</title>
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/test.html"/>
-        <id>https://paddle-cluster.github.io/test.html</id>
+        <link href="https://paddle-cluster.github.io/reading-group.html"/>
+        <id>https://paddle-cluster.github.io/reading-group.html</id>
+            <category term="Events"/>
 
-        <updated>2020-02-15T10:52:55+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Test
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Test
-            ]]>
-        </content>
+        <updated>2020-02-15T11:42:08+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Packet sniffing</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/packet-sniffing.html"/>
+        <id>https://paddle-cluster.github.io/packet-sniffing.html</id>
+            <category term="Methods Cookbook"/>
+
+        <updated>2020-02-15T11:39:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Thomas Hillman</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/thomas-hillman.html"/>
+        <id>https://paddle-cluster.github.io/thomas-hillman.html</id>
+            <category term="Members"/>
+
+        <updated>2020-02-15T11:38:32+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>RED</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/red.html"/>
+        <id>https://paddle-cluster.github.io/red.html</id>
+            <category term="Projects"/>
+
+        <updated>2020-02-15T11:34:21+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>BalancED</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/balanced.html"/>
+        <id>https://paddle-cluster.github.io/balanced.html</id>
+            <category term="Projects"/>
+
+        <updated>2020-02-15T11:34:30+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>SOCDEX</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/socdex.html"/>
+        <id>https://paddle-cluster.github.io/socdex.html</id>
+            <category term="Projects"/>
+
+        <updated>2020-02-15T11:34:50+01:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

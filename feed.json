@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "paddle-cluster",
+    "title": "PADDLE",
     "description": "",
     "home_page_url": "https://paddle-cluster.github.io",
     "feed_url": "https://paddle-cluster.github.io/feed.json",
@@ -10,18 +10,82 @@
     },
     "items": [
         {
-            "id": "https://paddle-cluster.github.io/test.html",
-            "url": "https://paddle-cluster.github.io/test.html",
-            "title": "Test",
-            "summary": "Test",
-            "content_html": "Test",
+            "id": "https://paddle-cluster.github.io/reading-group.html",
+            "url": "https://paddle-cluster.github.io/reading-group.html",
+            "title": "Reading group",
             "author": {
                 "name": "Thomas Hillman"
             },
             "tags": [
+                   "Events"
             ],
-            "date_published": "2020-02-15T10:52:55+01:00",
-            "date_modified": "2020-02-15T10:52:55+01:00"
+            "date_published": "2020-02-15T11:39:44+01:00",
+            "date_modified": "2020-02-15T11:42:08+01:00"
+        },
+        {
+            "id": "https://paddle-cluster.github.io/packet-sniffing.html",
+            "url": "https://paddle-cluster.github.io/packet-sniffing.html",
+            "title": "Packet sniffing",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+                   "Methods Cookbook"
+            ],
+            "date_published": "2020-02-15T11:39:12+01:00",
+            "date_modified": "2020-02-15T11:39:12+01:00"
+        },
+        {
+            "id": "https://paddle-cluster.github.io/thomas-hillman.html",
+            "url": "https://paddle-cluster.github.io/thomas-hillman.html",
+            "title": "Thomas Hillman",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+                   "Members"
+            ],
+            "date_published": "2020-02-15T11:38:32+01:00",
+            "date_modified": "2020-02-15T11:38:32+01:00"
+        },
+        {
+            "id": "https://paddle-cluster.github.io/red.html",
+            "url": "https://paddle-cluster.github.io/red.html",
+            "title": "RED",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2020-02-15T11:32:37+01:00",
+            "date_modified": "2020-02-15T11:34:21+01:00"
+        },
+        {
+            "id": "https://paddle-cluster.github.io/balanced.html",
+            "url": "https://paddle-cluster.github.io/balanced.html",
+            "title": "BalancED",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2020-02-15T11:32:33+01:00",
+            "date_modified": "2020-02-15T11:34:30+01:00"
+        },
+        {
+            "id": "https://paddle-cluster.github.io/socdex.html",
+            "url": "https://paddle-cluster.github.io/socdex.html",
+            "title": "SOCDEX",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+                   "Projects"
+            ],
+            "date_published": "2020-02-15T11:32:23+01:00",
+            "date_modified": "2020-02-15T11:34:50+01:00"
         }
     ]
 }
