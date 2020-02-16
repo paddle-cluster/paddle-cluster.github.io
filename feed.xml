@@ -3,7 +3,7 @@
     <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-02-16T10:43:11+01:00</updated>
+    <updated>2020-02-16T11:10:02+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://paddle-cluster.github.io/transparency-in-qualitative-research.html</id>
             <category term="Reading Groups"/>
 
-        <updated>2020-02-16T10:29:39+01:00</updated>
+        <updated>2020-02-16T10:55:35+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p lang="en-CA">3 meetings during spring 2020</p>
+                    <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p lang="en-CA">3 meetings during spring 2020</p>
+                <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
 
 <h2 id="mcetoc_1e16l87ji0" lang="en-CA">Transparency &amp; replicability</h2>
 <p lang="en-CA">April 17th 10:30-12:00 </p>
@@ -55,16 +55,16 @@
         <id>https://paddle-cluster.github.io/platformization-and-education.html</id>
             <category term="Reading Groups"/>
 
-        <updated>2020-02-16T10:25:15+01:00</updated>
+        <updated>2020-02-16T10:55:55+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p lang="en-CA">3 meetings during spring 2020</p>
+                    <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p lang="en-CA">3 meetings during spring 2020</p>
+                <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
 
 <h2 id="mcetoc_1e16kv19j3" lang="en-CA">Conceptualizing platforms</h2>
 <p lang="en-CA">February 7th 10:30-12:00</p>
@@ -286,16 +286,18 @@
         <id>https://paddle-cluster.github.io/transana-quick-start.html</id>
             <category term="Methods Cookbook"/>
 
-        <updated>2020-02-15T19:03:23+01:00</updated>
+        <updated>2020-02-16T11:06:45+01:00</updated>
             <summary>
                 <![CDATA[
-                    Transana is an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data. In many ways it is similar to other QDA software like Atlas.ti or Nvivo but with much&hellip;
+                    <p>This reference by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a> offers a basic starting point for analysing video using <a href="https://www.transana.com/" rel="nofollow">Transana</a>, an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://www.transana.com/" rel="nofollow">Transana</a> is an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data. In many ways it is similar to other QDA software like Atlas.ti or Nvivo but with much better features for handling video data such as interviews and observations.</p>
-<p>The really useful basic feature of Transana is that videos are synchronized with their transcripts so that when an instance is coded in either the video or the transcript it is automatically connected to the other.</p>
+                <p>This reference by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a> offers a basic starting point for analysing video using <a href="https://www.transana.com/" rel="nofollow">Transana</a>, an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data.</p>
+
+<p>In many ways Transana is similar to other QDA software like Atlas.ti or Nvivo but with much better features for handling video data such as interviews and observations. The really useful basic feature of Transana is that videos are synchronized with their transcripts so that when an instance is coded in either the video or the transcript it is automatically connected to the other.</p>
 <h2 id="mcetoc_1e150973o2">Tutorials</h2>
 <p>This series of tutorials cover the basic concepts needed to start using Transana to do qualitative analysis of video (or audio) data.</p>
 <ul>
