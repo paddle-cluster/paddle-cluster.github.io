@@ -3,12 +3,54 @@
     <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-02-16T11:10:02+01:00</updated>
+    <updated>2020-02-18T21:16:56+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
     <id>https://paddle-cluster.github.io</id>
 
+    <entry>
+        <title>BalancED blog test 2 </title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/balanced-blog-test-2.html"/>
+        <id>https://paddle-cluster.github.io/balanced-blog-test-2.html</id>
+            <category term="BalancED"/>
+
+        <updated>2020-02-18T20:31:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BalancED blog test 1</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/balanced-blog-test-1.html"/>
+        <id>https://paddle-cluster.github.io/balanced-blog-test-1.html</id>
+            <category term="BalancED"/>
+
+        <updated>2020-02-18T20:30:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1582054140228,"type":"publii-toc","content":{"toc":"","title":""},"config":{"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1582054140228,"type":"publii-toc","content":{"toc":"","title":""},"config":{"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Transparency in qualitative research</title>
         <author>
@@ -16,7 +58,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/transparency-in-qualitative-research.html"/>
         <id>https://paddle-cluster.github.io/transparency-in-qualitative-research.html</id>
-            <category term="Reading Groups"/>
+            <category term="Activities | Aktiviteter"/>
 
         <updated>2020-02-16T10:55:35+01:00</updated>
             <summary>
@@ -53,7 +95,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/platformization-and-education.html"/>
         <id>https://paddle-cluster.github.io/platformization-and-education.html</id>
-            <category term="Reading Groups"/>
+            <category term="Activities | Aktiviteter"/>
 
         <updated>2020-02-16T10:55:55+01:00</updated>
             <summary>
@@ -92,7 +134,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/tanya-osborne.html"/>
         <id>https://paddle-cluster.github.io/tanya-osborne.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:03:08+01:00</updated>
             <summary>
@@ -119,7 +161,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/alena-seredko.html"/>
         <id>https://paddle-cluster.github.io/alena-seredko.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:02:50+01:00</updated>
             <summary>
@@ -145,7 +187,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/svea-kiesewetter.html"/>
         <id>https://paddle-cluster.github.io/svea-kiesewetter.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:02:29+01:00</updated>
             <summary>
@@ -172,7 +214,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/mona-lundin.html"/>
         <id>https://paddle-cluster.github.io/mona-lundin.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:02:13+01:00</updated>
             <summary>
@@ -200,7 +242,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/catarina-player-koro.html"/>
         <id>https://paddle-cluster.github.io/catarina-player-koro.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:01:09+01:00</updated>
             <summary>
@@ -227,7 +269,7 @@
         </author>
         <link href="https://paddle-cluster.github.io/markus-nivala.html"/>
         <id>https://paddle-cluster.github.io/markus-nivala.html</id>
-            <category term="Members"/>
+            <category term="Members | Medlemmar"/>
 
         <updated>2020-02-16T10:00:25+01:00</updated>
             <summary>
@@ -242,79 +284,6 @@
 
 <ul>
 <li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (Co-Investigator, PhD Supervisor)</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Annika Bergviken Rensfeldt</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/annika-bergviken-rensfeldt.html"/>
-        <id>https://paddle-cluster.github.io/annika-bergviken-rensfeldt.html</id>
-            <category term="Members"/>
-
-        <updated>2020-02-16T10:00:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxbanns&amp;userId=xbanns">Annika Bergviken Rensfeldt</a> is a PhD and Associate Professor in Education at the University of Gothenburg. Based in the tradition of Sociology of Education, Annika’s main interests include critical approaches to Educational Technology and education and IT governance.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxbanns&amp;userId=xbanns">Annika Bergviken Rensfeldt</a> is a PhD and Associate Professor in Education at the University of Gothenburg. Based in the tradition of Sociology of Education, Annika’s main interests include critical approaches to Educational Technology and education and IT governance.</p>
-
-<ul>
-<li><a href="https://paddle-cluster.github.io/balanced.html">BalancED</a> (Primary Investigator, PhD Supervisor)</li>
-<li><a href="https://paddle-cluster.github.io/red.html">RED</a> (PhD supervisor)</li>
-</ul>
-<p>Both of Annika's main interests were a part of her thesis on Swedish Distance and Higher Education governance based on reforms of opening and democratizing higher education in the 1990s and early 2000s. Furthermore, aspects of gender and gendered technology use has been a part of her research and she has developed research on the governance and changing disciplinary career orientations for Doctoral Education. Lately, the policy and governance interest has translated into empirical studies on policy network formations, connecting public and commercial interests and actors within IT education policy area. Currently, the empirical interest of digitization of education has widened to the digitization of schools and digital platforms.</p>
-<p>Annika recently finalized a three-year research project funded by the Swedish Research Council, investigating and problematizing how teachers use social media for professional learning and digital work outside the formal school and workplace. Empirically, the project is based on advanced computational data on the interactions and norms of professional social media and resources shared. For a popular science article on this social media project (in Swedish): <a href="https://www.sics.se/media/news/hur-fungerar-larares-kollegiala-larande-pa-facebook">https://www.sics.se/media/news/hur-fungerar-larares-kollegiala-larande-pa-facebook</a></p>
-<p>Annika is also involved in research with a group of international scholars within the field of digital governance and policy sociology, which has resulted in publications within the field of policy sociology studies, on trans-national policy networks, policy network events. One study for example have problematized the so-called edu-business surrounding current policy-making within educational technology, and the lobby and industry around the curriculum policy issue of programming in schools.</p>
-<p>In 2016, Annika was awarded as Excellent Teaching Practitioner at the Faculty of Education, University of Gothenburg, and she has a wide experience of teaching and pedagogical development, also in leadership roles. She is currently Deputy Head of Department with special responsibility for education quality.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Transana quick start</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/transana-quick-start.html"/>
-        <id>https://paddle-cluster.github.io/transana-quick-start.html</id>
-            <category term="Methods Cookbook"/>
-
-        <updated>2020-02-16T11:06:45+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This reference by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a> offers a basic starting point for analysing video using <a href="https://www.transana.com/" rel="nofollow">Transana</a>, an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This reference by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a> offers a basic starting point for analysing video using <a href="https://www.transana.com/" rel="nofollow">Transana</a>, an application developed by David Woods which can run on either Mac OS X or Windows and allows users to perform qualitative analysis of video data.</p>
-
-<p>In many ways Transana is similar to other QDA software like Atlas.ti or Nvivo but with much better features for handling video data such as interviews and observations. The really useful basic feature of Transana is that videos are synchronized with their transcripts so that when an instance is coded in either the video or the transcript it is automatically connected to the other.</p>
-<h2 id="mcetoc_1e150973o2">Tutorials</h2>
-<p>This series of tutorials cover the basic concepts needed to start using Transana to do qualitative analysis of video (or audio) data.</p>
-<ul>
-<li><a href="https://vimeo.com/7433535" rel="nofollow">Getting started</a></li>
-<li><a href="https://vimeo.com/7433616" rel="nofollow">Adding video</a></li>
-<li><a href="https://vimeo.com/7433688" rel="nofollow">Creating or importing a transcript</a></li>
-<li><a href="https://vimeo.com/7434003" rel="nofollow">Identifying instances</a></li>
-<li><a href="https://vimeo.com/7434263" rel="nofollow">Defining keywords</a></li>
-</ul>
-<h2 id="mcetoc_1e1509a8s3">Useful Transana keycommands</h2>
-<p>Ctrl on Windows/Cmd on Mac</p>
-<ul>
-<li>Ctrl/Cmd-D Pause / Play video</li>
-<li>Ctrl/Cmd-S Pause video / Rewind video 2 seconds and play</li>
-<li>Ctrl/Cmd-A Rewind video 10 seconds and play</li>
-<li>Ctrl/Cmd-F Fastforward 10 seconds</li>
-<li>Ctrl/Cmd-T Insert time point</li>
 </ul>
             ]]>
         </content>
