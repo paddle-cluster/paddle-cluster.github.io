@@ -3,127 +3,43 @@
     <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-02-18T21:16:56+01:00</updated>
+    <updated>2020-02-22T11:51:51+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
     <id>https://paddle-cluster.github.io</id>
 
     <entry>
-        <title>BalancED blog test 2 </title>
+        <title>SOCDEX</title>
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/balanced-blog-test-2.html"/>
-        <id>https://paddle-cluster.github.io/balanced-blog-test-2.html</id>
-            <category term="BalancED"/>
+        <link href="https://paddle-cluster.github.io/socdex-2.html"/>
+        <id>https://paddle-cluster.github.io/socdex-2.html</id>
+            <category term="sv"/>
+            <category term="Projekt"/>
 
-        <updated>2020-02-18T20:31:14+01:00</updated>
+        <updated>2020-02-22T10:08:56+01:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>BalancED blog test 1</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/balanced-blog-test-1.html"/>
-        <id>https://paddle-cluster.github.io/balanced-blog-test-1.html</id>
-            <category term="BalancED"/>
-
-        <updated>2020-02-18T20:30:57+01:00</updated>
-            <summary>
-                <![CDATA[
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1582054140228,"type":"publii-toc","content":{"toc":"","title":""},"config":{"advanced":{"cssClasses":"","id":""}}}]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                [{"id":1555941466744,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1582054140228,"type":"publii-toc","content":{"toc":"","title":""},"config":{"advanced":{"cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Transparency in qualitative research</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/transparency-in-qualitative-research.html"/>
-        <id>https://paddle-cluster.github.io/transparency-in-qualitative-research.html</id>
-            <category term="Activities | Aktiviteter"/>
-
-        <updated>2020-02-16T10:55:35+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
+                    <p class="p1">Syftet med detta projekt är att förstå hur nätverkssamhällen bidrar till expertisutveckling med inriktning på personer som engagerar sig med online sociala plattformar för att utveckla sin kompetens och kunskap om programmering. Projektet är aktuellt med tanke på både sitt intresse för de sociala dimensioner av expertisutveckling i förhållande till onlinemiljöer och dess intresse för livslångt lärande inom programmering.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
+                <p class="p1">Syftet med detta projekt är att förstå hur nätverkssamhällen bidrar till expertisutveckling med inriktning på personer som engagerar sig med online sociala plattformar för att utveckla sin kompetens och kunskap om programmering. Projektet är aktuellt med tanke på både sitt intresse för de sociala dimensioner av expertisutveckling i förhållande till onlinemiljöer och dess intresse för livslångt lärande inom programmering.</p>
 
-<h2 id="mcetoc_1e16l87ji0" lang="en-CA">Transparency &amp; replicability</h2>
-<p lang="en-CA">April 17th 10:30-12:00 </p>
-<p lang="en-CA"><a href="https://preprints.apsanet.org/engage/apsa/article-details/5d94c7762f41c7001256af6d">Kapiszewski, D., &amp; Karcher, S. (2019). Transparency in Practice in Qualitative Research.</a></p>
-<p lang="en-CA"><a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3015">Aguinis, H., &amp; Solarino, A. M. (2019). Transparency and replicability in qualitative research: The case of interviews with elite informants. Strategic Management Journal.</a></p>
-<p lang="en-CA"><a href="https://journals.sagepub.com/doi/abs/10.1177/0001839219887663?journalCode=asqa">Pratt, M. G., Kaplan, S., &amp; Whittington, R. (2019). Editorial Essay: The Tumult over Transparency: Decoupling Transparency from Replication in Establishing Trustworthy Qualitative Research. Administrative Science Quarterly, 0001839219887663.</a></p>
-<h2 id="mcetoc_1e16l8jib1" lang="en-CA">Preregistration</h2>
-<p lang="en-CA">May 8th 10:30-12:00</p>
-<p lang="en-CA"><a href="https://www.tandfonline.com/doi/full/10.1080/08989621.2019.1580147">L. Haven, T., &amp; Van Grootel, D. L. (2019). Preregistering qualitative research. Accountability in research, 26(3), 229-244.</a></p>
-<p lang="en-CA"><a href="https://www.researchgate.net/publication/319141144_Exploring_Pre-registration_and_Pre-analysis_Plans_for_Qualitative_Inference">Kern, F. G., &amp; Gleditsch, K. S. (2017). Exploring Pre-Registration and Pre-Analysis Plans for Qualitative Inference. Preprint ahead of publication, 1-15.</a> </p>
-<p lang="en-CA"><a href="https://osf.io/j7ghv/wiki/home/">Hartman, A., Kern, F., &amp; Mellor, D. T. (2019, September 13). Preregistration for Qualitative Research Template.</a></p>
-<h2 id="mcetoc_1e16l8vf52" lang="en-CA">Open datasets &amp; reporting</h2>
-<p lang="en-CA">May 29th 10:30-12:00</p>
-<p lang="en-CA"><a href="https://doi.org/10.1080/14780887.2019.1605477">Branney, P., Reid, K., Frost, N., Coan, S., Mathieson, A., &amp; Woolhouse, M. (2018, October 31). A meta-framework for designing open data studies in psychology: ethical and practical issues of open qualitative data sets.</a></p>
-<p lang="en-CA"><a href="https://academic.oup.com/intqhc/article/19/6/349/1791966">Tong, A., Sainsbury, P., &amp; Craig, J. (2007). Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups. International journal for quality in health care, 19(6), 349-357.</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Platformization &amp; education</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/platformization-and-education.html"/>
-        <id>https://paddle-cluster.github.io/platformization-and-education.html</id>
-            <category term="Activities | Aktiviteter"/>
-
-        <updated>2020-02-16T10:55:55+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p lang="en-CA">3 meetings during spring 2020 led by <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></p>
-
-<h2 id="mcetoc_1e16kv19j3" lang="en-CA">Conceptualizing platforms</h2>
-<p lang="en-CA">February 7th 10:30-12:00</p>
-<p lang="sv"><a href="https://escholarship.org/uc/item/01r0k9br">Bogost, I., &amp; Montfort, N. (2009). Platform studies: Frequently questioned answers.</a></p>
-<p lang="sv"><a href="https://journals.sagepub.com/doi/10.1177/1461444809342738">Gillespie, T. (2010). The politics of ‘platforms’. New media &amp; society, 12(3), 347-364.</a></p>
-<p lang="sv"><a href="https://journals.sagepub.com/doi/pdf/10.1177/1461444816661553">Plantin, J. C., Lagoze, C., Edwards, P. N., &amp; Sandvig, C. (2018). Infrastructure studies meet platform studies in the age of Google and Facebook. New Media &amp; Society, 20(1), 293-310.</a></p>
-<h2 id="mcetoc_1e16ktosa1" lang="en-CA">Schooling</h2>
-<p lang="en-CA">February 27th 15:00-16:30</p>
-<p lang="sv"><a href="https://journals.sagepub.com/doi/full/10.1177/1474904115602909">Selwyn, N. (2016). ‘There’s so much data’: Exploring the realities of data-based school governance. European Educational Research Journal, 15(1), 54-68.</a> </p>
-<p lang="sv"><a href="https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12926/8488">Kumar, P. C., Vitak, J., Chetty, M., &amp; Clegg, T. L. (2019). The Platformization of the Classroom: Teachers as Surveillant Consumers. Surveillance &amp; Society, 17(1/2), 145-152.</a></p>
-<p lang="sv"><a href="https://journals.sagepub.com/doi/full/10.1177/0034523717723389">Williamson, B. (2017). Learning in the ‘platform society’: Disassembling an educational data assemblage. Research in Education, 98(1), 59-82.</a></p>
-<p lang="sv"><a href="https://www.tandfonline.com/doi/pdf/10.1080/17439884.2018.1558237">Manolev, J., Sullivan, A., &amp; Slee, R. (2019). The datafication of discipline: ClassDojo, surveillance and a performative classroom culture. Learning, Media and Technology, 44(1), 36-51.</a></p>
-<h2 id="mcetoc_1e16ku7uu2" lang="en-CA">Lifelong learning</h2>
-<p lang="en-CA">March 20th 10:30-12:00</p>
-<p lang="sv"><a href="https://ora.ox.ac.uk/objects/uuid:5bcc8d4a-4406-4d51-a649-10c7def77ba4/download_file?file_format=pdf&amp;safe_filename=crowdlearn_literature_review.pdf&amp;type_of_work=Report">Lehdonvirta, V., Margaryan, A. &amp; Dvies, H. (2019). Skills formation and skills matching in online platform work: policies and practices for promoting crowdworkers’ continuous learning (CrowdLearn). Europeam Centre for the Development of Vocational Training.</a></p>
-<p lang="sv"><a href="https://www.tandfonline.com/doi/full/10.1080/19428200.2018.1602408">Kelkar, S. (2018). On the “Neutrality” of Platforms: How the Platform Shapes Pedagogy in MOOCs. Anthropology Now, 10(3), 70-83.</a></p>
-<p lang="sv"><a href="https://www.tandfonline.com/doi/full/10.1080/17439884.2018.1504792">Means, A. J. (2018). Platform learning and on-demand labor: sociotechnical projections on the future of education and work. Learning, Media and Technology, 43(3), 326-338.</a></p>
+<p class="p1">Kompetens och utveckling i programmering och andra områden har traditionellt studerats på individnivå genom att till exempel jämföra nybörjare med experter när det gäller deras kunskaps- och resonemangsstrategier. Forskare har dock nyligen börjat intressera sig för de sociala dimensionerna av expertis. Att studera expertisutveckling i sitt sociala sammanhang är särskilt relevant för programmering där mjukvaruutvecklingsprojekt ofta är samarbeten mellan många individer som arbetar med gemensam problemlösning.</p>
+<p class="p1">Studier har visat att personer med hög programmeringsexpertis ofta uppvisar stark kommunikations- och samarbetsförmåga samt drar nytta av sina personliga nätverk. Som ett sätt att skapa ett personligt nätverk har många som är intresserade av programmering börjat delta i onlinemiljöer, som till exempel Stack Overflow där miljontals medlemmar samarbetar för att lösa problem. I sådana onlinemiljöer utvecklar programmerare sina programmeringskunskaper och skapar gemenskap kring sitt intresse. Därför är det intressant att studera utvecklingen av programmeringsexpertis ur ett socialt perspektiv genom att undersöka de nätverk som hittills förbisetts i forskningen om expertisutveckling.</p>
+<p class="p1">Tre huvudforskningsfrågor undersöks:</p>
+<ol>
+<li>Vilket kunskapsutbyte finns i en online programmeringsgrupp?</li>
+<li>Hur kan expertstatus i en online programmeringsgrupp erkännas och spåras genom nätverksinteraktioner?</li>
+<li>Vilken roll spelar sociala gemenskapen i en online programmeringsgrupp för expertisutveckling?</li>
+</ol>
+<p>Dessa frågor undersöks genom insamling och analys av fem olika empiri som är inriktade på det populära Stack Overflow-nätverket. Expertisutvecklingen undersöks genom analys av online-interaktioner, en enkät och intervjuer.</p>
+<p class="p1">Projektet bidrar till detta allt viktigare område genom att undersöka hur expertis delas, erkänns och utvecklas i onlinemiljöer i relation till den aktuella frågan om livslångt lärande i programmering. Resultaten kommer att ha praktiska konsekvenser för att stödja inlärning av programmering och mer generellt hur onlinegrupper kan användas för att främja och sprida expertis.</p>
             ]]>
         </content>
     </entry>
@@ -132,25 +48,28 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/tanya-osborne.html"/>
-        <id>https://paddle-cluster.github.io/tanya-osborne.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/tanya-osborne-2.html"/>
+        <id>https://paddle-cluster.github.io/tanya-osborne-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:03:08+01:00</updated>
+        <updated>2020-02-22T11:47:05+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxosbta&amp;userId=xosbta">Tanya Osborne</a> is Doctoral Student at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                    <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xosbta">Tanya Osborne</a> är doktorand på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet..</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxosbta&amp;userId=xosbta">Tanya Osborne</a> is Doctoral Student at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xosbta">Tanya Osborne</a> är doktorand på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet..</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (PhD Student)</li>
-<li><a href="https://paddle-cluster.github.io/balanced.html">BalancED</a> (PhD Student)</li>
+<li><a href="https://paddle-cluster.github.io/socdex-2.html">SOCDEX</a> (Doktorand)</li>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Doktorand)</li>
 </ul>
+<p><img class="post__image post__image--center" src="https://paddle-cluster.github.io/media/posts/36/Tanya.jpg" alt="" width="210" height="280"></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -159,23 +78,24 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/alena-seredko.html"/>
-        <id>https://paddle-cluster.github.io/alena-seredko.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/alena-seredko-2.html"/>
+        <id>https://paddle-cluster.github.io/alena-seredko-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:02:50+01:00</updated>
+        <updated>2020-02-22T11:47:44+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxseral&amp;userId=xseral">Alena Seredko</a> is Doctoral Student at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                    <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xseral">Alena Seredko</a> är doktorand på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxseral&amp;userId=xseral">Alena Seredko</a> is Doctoral Student at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xseral">Alena Seredko</a> är doktorand på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet.</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (PhD Student)</li>
+<li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (Doktorand)</li>
 </ul>
             ]]>
         </content>
@@ -185,25 +105,27 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/svea-kiesewetter.html"/>
-        <id>https://paddle-cluster.github.io/svea-kiesewetter.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/svea-kiesewetter-2.html"/>
+        <id>https://paddle-cluster.github.io/svea-kiesewetter-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:02:29+01:00</updated>
+        <updated>2020-02-22T11:43:23+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xkiesv">Svea Kiesewetter</a> is Doctoral Student at the Department of Applied IT at the University of Gothenburg.</p>
+                    <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xkiesv">Svea </a><a href="https://ait.gu.se/om-institutionen/avdelningen-for-larande--kommunikation-och-it/personal?userId=xkiesv">Kiesewetter</a> är doktorand på Institutionen för Tillämpad IT på Göteborgs universitet.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xkiesv">Svea Kiesewetter</a> is Doctoral Student at the Department of Applied IT at the University of Gothenburg.</p>
+                <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xkiesv">Svea </a><a href="https://ait.gu.se/om-institutionen/avdelningen-for-larande--kommunikation-och-it/personal?userId=xkiesv">Kiesewetter</a> är doktorand på Institutionen för Tillämpad IT på Göteborgs universitet.</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/balanced.html">BalancED</a> (PhD Student)</li>
-<li><a href="https://paddle-cluster.github.io/red.html">RED</a> (PhD Student)</li>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Doktorand)</li>
+<li><a href="https://paddle-cluster.github.io/red-2.html">RED</a> (Doktorand)</li>
 </ul>
+<p><img class="post__image post__image--center" src="https://paddle-cluster.github.io/media/posts/34/Svea-K-new.png" alt="" width="187" height="280"></p>
             ]]>
         </content>
     </entry>
@@ -212,26 +134,28 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/mona-lundin.html"/>
-        <id>https://paddle-cluster.github.io/mona-lundin.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/mona-lundin-2.html"/>
+        <id>https://paddle-cluster.github.io/mona-lundin-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:02:13+01:00</updated>
+        <updated>2020-02-22T11:41:14+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnimon&amp;userId=xnimon">Mona Lundin</a> is Associate Professor at the Department of Education, Communication and Learning at the University of Gothenburg. Her research concerns learning and knowledge in professional activities.</p>
+                    <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xnimon">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnimon&amp;userId=xnimon">Mona Lundin</a> is Associate Professor at the Department of Education, Communication and Learning at the University of Gothenburg. Her research concerns learning and knowledge in professional activities.</p>
+                <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xnimon">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/balanced.html">BalancED</a> (Co-Investigator)</li>
-<li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (PhD Supervisor)</li>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Medforskare)</li>
+<li><a href="https://paddle-cluster.github.io/socdex-2.html">SOCDEX</a> (Doktorand handledare)</li>
 </ul>
-<p>Mona's dissertation project (funded by LearnIT in collaboration with the Knowledge Foundation), “New Web-based Educational Environments as Contexts for Interaction and Learning for Professionals,” the focus was on how professionals participate in and make use of Web-based educational platforms designed to facilitate various types of continuing education and professional development efforts. The main point was to analyse activities being developed in these new contexts for learning. What learning and discourse cultures are being established in these contexts?</p>
+<p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/33/1283094_mona-nilsen-068A.jpg" alt="" width="187" height="280"></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -240,11 +164,12 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/catarina-player-koro.html"/>
-        <id>https://paddle-cluster.github.io/catarina-player-koro.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/catarina-player-koro-2.html"/>
+        <id>https://paddle-cluster.github.io/catarina-player-koro-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:01:09+01:00</updated>
+        <updated>2020-02-22T11:37:41+01:00</updated>
             <summary>
                 <![CDATA[
                     <p><a href="https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>
@@ -256,9 +181,10 @@
                 <p><a href="https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/balanced.html">BalancED</a> (Co-Investigator)</li>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Medforskare)</li>
 </ul>
-<p>Catarina is currently active in research in the policy fields in studies on policy network formations, connecting public and commercial interests and actors within IT education policy an in investigating the policy effects of the implementation of career pathways for teachers, in Swedish schools.</p>
+<p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/32/_MG_1210a1.jpg" alt="" width="246" height="280"></p>
+<p>C<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">atarina is currently active in research in the policy fields in studies on policy network formations, connecting public and commercial interests and actors within IT education policy an in investigating the policy effects of the implementation of career pathways for teachers, in Swedish schools.</span></p>
             ]]>
         </content>
     </entry>
@@ -267,24 +193,146 @@
         <author>
             <name>Thomas Hillman</name>
         </author>
-        <link href="https://paddle-cluster.github.io/markus-nivala.html"/>
-        <id>https://paddle-cluster.github.io/markus-nivala.html</id>
-            <category term="Members | Medlemmar"/>
+        <link href="https://paddle-cluster.github.io/markus-nivala-2.html"/>
+        <id>https://paddle-cluster.github.io/markus-nivala-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
 
-        <updated>2020-02-16T10:00:25+01:00</updated>
+        <updated>2020-02-22T11:35:27+01:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnivam&amp;userId=xnivam">Markus Nivala</a> is Senior Lecturer at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                    <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnivam&amp;userId=xnivam">Markus Nivala</a> är universitetslektor på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnivam&amp;userId=xnivam">Markus Nivala</a> is Senior Lecturer at the Department of Education, Communication and Learning at the University of Gothenburg.</p>
+                <p><a href="https://ipkl.gu.se/english/about-the-dept./staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fipkl.gu.se%2Fom-ipkl%2Fpersonal%2F%3FuserId%3Dxnivam&amp;userId=xnivam">Markus Nivala</a> är universitetslektor på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet.</p>
 
 <ul>
-<li><a href="https://paddle-cluster.github.io/socdex.html">SOCDEX</a> (Co-Investigator, PhD Supervisor)</li>
+<li><a href="https://paddle-cluster.github.io/socdex-2.html">SOCDEX</a> (Medforskare, Doktorand handledare)</li>
 </ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Annika Bergviken Rensfeldt</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/annika-bergviken-rensfeldt-2.html"/>
+        <id>https://paddle-cluster.github.io/annika-bergviken-rensfeldt-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
+
+        <updated>2020-02-22T11:35:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xbanns">Annika Bergviken Rensfeldt</a> is a PhD and Associate Professor in Education at the University of Gothenburg. Based in the tradition of Sociology of Education, Annika’s main interests include critical approaches to Educational Technology and education and IT governance.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xbanns">Annika Bergviken Rensfeldt</a> is a PhD and Associate Professor in Education at the University of Gothenburg. Based in the tradition of Sociology of Education, Annika’s main interests include critical approaches to Educational Technology and education and IT governance.</p>
+
+<ul>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Projektledare, Doktorand handledare)</li>
+<li><a href="https://paddle-cluster.github.io/red-2.html">RED</a> (Medforskare, Doktorand handledare)</li>
+</ul>
+<p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/30/annikabr2019.jpg" alt="" width="220" height="260"></p>
+<p>Both of Annika's main interests were a part of her thesis on Swedish Distance and Higher Education governance based on reforms of opening and democratizing higher education in the 1990s and early 2000s. Furthermore, aspects of gender and gendered technology use has been a part of her research and she has developed research on the governance and changing disciplinary career orientations for Doctoral Education.</p>
+<p>Lately, Annika's policy and governance interest has translated into empirical studies on policy network formations, connecting public and commercial interests and actors within IT education policy area. Currently, the empirical interest of digitization of education has widened to the digitization of schools and digital platforms.</p>
+<p>Annika recently finalized a three-year research project funded by the Swedish Research Council, investigating and problematizing how teachers use social media for professional learning and digital work outside the formal school and workplace. Empirically, the project is based on advanced computational data on the interactions and norms of professional social media and resources shared. For a popular science article on this social media project (in Swedish): <a href="https://www.sics.se/media/news/hur-fungerar-larares-kollegiala-larande-pa-facebook">https://www.sics.se/media/news/hur-fungerar-larares-kollegiala-larande-pa-facebook</a></p>
+<p>Annika is also involved in research with a group of international scholars within the field of digital governance and policy sociology, which has resulted in publications within the field of policy sociology studies, on trans-national policy networks, policy network events. One study for example have problematized the so-called edu-business surrounding current policy-making within educational technology, and the lobby and industry around the curriculum policy issue of programming in schools.</p>
+<p>In 2016, Annika was awarded as Excellent Teaching Practitioner at the Faculty of Education, University of Gothenburg, and she has a wide experience of teaching and pedagogical development, also in leadership roles. She is currently Deputy Head of Department with special responsibility for education quality.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Thomas Hillman</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/thomas-hillman-2.html"/>
+        <id>https://paddle-cluster.github.io/thomas-hillman-2.html</id>
+            <category term="sv"/>
+            <category term="Medlemmar"/>
+
+        <updated>2020-02-22T11:48:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xhilth">Thomas Hillman</a> är arrangören av PADDLE. Hans arbete går över gränserna mellan informatik, pedagogik och människa-dator-interaktion. Han är docent i pedagogik och har en bakgrund i designen av teknik för lärande. I sin forskning undersöker Thomas hur olika tekniker påverkar lärande som en individuell, social och kulturell process. Detta arbete är relevant för att förstå hur vi lär oss i relation till teknik, hur vi bäst kan utforma eller anpassa teknik för att stödja lärande, och hur vi kan arbeta med teknik som en del av undervisning och lärande.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://ait.gu.se/english/about-us/division-of-learning--communication-and-it/staff?languageId=100001&amp;userId=xhilth">Thomas Hillman</a> är arrangören av PADDLE. Hans arbete går över gränserna mellan informatik, pedagogik och människa-dator-interaktion. Han är docent i pedagogik och har en bakgrund i designen av teknik för lärande. I sin forskning undersöker Thomas hur olika tekniker påverkar lärande som en individuell, social och kulturell process. Detta arbete är relevant för att förstå hur vi lär oss i relation till teknik, hur vi bäst kan utforma eller anpassa teknik för att stödja lärande, och hur vi kan arbeta med teknik som en del av undervisning och lärande.</p>
+
+<ul>
+<li><a href="https://paddle-cluster.github.io/socdex-2.html">SOCDEX</a> (Projektledare, Doktorand handledare)</li>
+<li><a href="https://paddle-cluster.github.io/red-2.html">RED</a> (Projektledare, Doktorand handledare)</li>
+<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Medforskare, Doktorand handledare)</li>
+</ul>
+<p><img class="post__image post__image--center" style="font-size: 17.7235px; outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://paddle-cluster.github.io/media/posts/29/THillman_uncropped.jpg" alt="" width="280" height="210"></p>
+<p>En stor del av Thomas Hillmans forskning bygger på omfattande användning av digitala register och inspelningar över hur människor interagerar med teknik och han arbetar för att anpassa och utveckla metoder och verktyg för att få tillgång till och förståelse för dessa aktiviteter.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>RED</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/red-2.html"/>
+        <id>https://paddle-cluster.github.io/red-2.html</id>
+            <category term="sv"/>
+            <category term="Projekt"/>
+
+        <updated>2020-02-22T10:26:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>RED undersöker hur skolan omkonfigureras genom digital teknik i olika regioner i världen. Den frågar på vilka sätt dessa förändringar förvärrar, reproducerar eller skapar nya former av ojämlikhet och / eller främjar jämlikhet?</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>RED undersöker hur skolan omkonfigureras genom digital teknik i olika regioner i världen. Den frågar på vilka sätt dessa förändringar förvärrar, reproducerar eller skapar nya former av ojämlikhet och / eller främjar jämlikhet?</p>
+
+<p>Projektet omfattar forskargrupper i 4 länder:</p>
+<ul>
+<li>Tyskland, ledd av <a href="http://www.gei.de/en/staff/prof-dr-felicitas-macgilchrist.html">Felicitas Macgilchrist</a></li>
+<li>Sverige, ledd av <a href="https://paddle-cluster.github.io/thomas-hillman.html">Thomas Hillman</a></li>
+<li>Mexico, ledd av <a href="https://www.iaoed.org/index.php/fellows/item/70-ines-dussel">Inés Dussel</a></li>
+<li>Sydsafrika, ledd av <a href="https://www.unisa.ac.za/sites/corporate/default/Colleges/Economic-and-Management-Sciences/Schools,-departments,-bureau,-centres-&amp;-institutes/School-of-Management-Sciences/Department-of-Business-Management/Staff-members/Prof-P-Prinsloo">Paul Prinsloo</a></li>
+</ul>
+<p>Med fältarbete i Sverige, Tyskland, Mexiko, Argentina, Sydafrika och Botswana undersöker RED:</p>
+<ol>
+<li>Policy: Hur hanterar politik och datainfrastrukturer för digital utbildning ojämlikhet?</li>
+<li>Praktik: Hur engagerar utvalda privilegierade och missgynnade skolor digital teknik och därigenom (åter)skapar eller bestrida ojämlikhet?</li>
+<li>Profiler: Hur är skolornas 'dataprofiler' intrasslad med ojämlikheten?</li>
+</ol>
+<p>RED riktar sig till vital, resurs och existensiell / jämlikhet. Det prioriterar teknikpolitik och decolonialtänkande. Den använder etablerade etnografiska metoder och nya datarevisioner och digitala metoder för att skapa kraftfulla berättelser.</p>
+<p>Det syftar till att:</p>
+<ol style="list-style-type: lower-roman;">
+<li>kartlägga globala fenomen och lokala specificiteter</li>
+<li>utveckla kontextualiserade förståelser av teknikanvändning i privilegierade och missgynnade skolor</li>
+<li>generera profiler av hur - och av vem - studentdata koloniseras över globala sammanhang</li>
+<li>problematisera förenklade berättelser om hur teknik kan lindra ojämlikheter</li>
+<li>identifiera mekanismer genom vilka teknik och / eller datasuveränitet främjar jämlikhet</li>
+</ol>
+<p>Sammantaget bidrar RED med ett globalt perspektiv på teknik, utbildning och samhälle. Det ger också insikter för att utforma och reglera användningen av teknik i utbildningen för att skapa en mer rättvis framtid.</p>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
