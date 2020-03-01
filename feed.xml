@@ -3,12 +3,30 @@
     <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-03-01T20:14:04+01:00</updated>
+    <updated>2020-03-01T20:58:20+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
     <id>https://paddle-cluster.github.io</id>
 
+    <entry>
+        <title>Publikationer</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/publications-2.html"/>
+        <id>https://paddle-cluster.github.io/publications-2.html</id>
+
+        <updated>2020-03-01T20:57:56+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fpaddle-cluster.github.io%2Fscopus.bib&amp;jsonp=1"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Publications</title>
         <author>
@@ -289,36 +307,6 @@
 <li><a href="https://paddle-cluster.github.io/red-2.html">RED</a> (Doktorand)</li>
 </ul>
 <p><img class="post__image post__image--center" src="https://paddle-cluster.github.io/media/posts/34/Svea-K-new.png" alt="" width="187" height="280"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mona Lundin</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/mona-lundin-2.html"/>
-        <id>https://paddle-cluster.github.io/mona-lundin-2.html</id>
-            <category term="sv"/>
-            <category term="Medlemmar"/>
-
-        <updated>2020-02-22T11:41:14+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xnimon">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://ipkl.gu.se/om-ipkl/personal?userId=xnimon">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>
-
-<ul>
-<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Medforskare)</li>
-<li><a href="https://paddle-cluster.github.io/socdex-2.html">SOCDEX</a> (Doktorand handledare)</li>
-</ul>
-<p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/33/1283094_mona-nilsen-068A.jpg" alt="" width="187" height="280"></p>
-<p> </p>
             ]]>
         </content>
     </entry>

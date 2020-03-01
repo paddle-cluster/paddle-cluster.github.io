@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://paddle-cluster.github.io/publications-2.html",
+            "url": "https://paddle-cluster.github.io/publications-2.html",
+            "title": "Publikationer",
+            "content_html": "<p>\n<script src=\"https://bibbase.org/show?bib=https%3A%2F%2Fpaddle-cluster.github.io%2Fscopus.bib&amp;jsonp=1\"></script>\n</p>",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-01T20:57:43+01:00",
+            "date_modified": "2020-03-01T20:57:56+01:00"
+        },
+        {
             "id": "https://paddle-cluster.github.io/publications.html",
             "url": "https://paddle-cluster.github.io/publications.html",
             "title": "Publications",
@@ -147,22 +160,6 @@
             ],
             "date_published": "2020-02-22T09:56:42+01:00",
             "date_modified": "2020-02-22T11:43:23+01:00"
-        },
-        {
-            "id": "https://paddle-cluster.github.io/mona-lundin-2.html",
-            "url": "https://paddle-cluster.github.io/mona-lundin-2.html",
-            "title": "Mona Lundin",
-            "summary": "<p><a href=\"https://ipkl.gu.se/om-ipkl/personal?userId=xnimon\">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>\n",
-            "content_html": "<p><a href=\"https://ipkl.gu.se/om-ipkl/personal?userId=xnimon\">Mona Lundin</a> är docent på Institutionen för pedagogik, kommunikation och lärande på Göteborgs universitet. Hennes övergripande forskningsintresse rör kommunikation, lärande och digitala medier i fortbildning och professionella verksamheter. Jag disputerade 2009 på avhandlingen: 'Food for Thought: Communication and the transformation of work experience in web-based in-service training'.</p>\n\n<ul>\n<li><a href=\"https://paddle-cluster.github.io/balanced-2.html\">BalancED</a> (Medforskare)</li>\n<li><a href=\"https://paddle-cluster.github.io/socdex-2.html\">SOCDEX</a> (Doktorand handledare)</li>\n</ul>\n<p><img class=\"post__image post__image--center\" style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://paddle-cluster.github.io/media/posts/33/1283094_mona-nilsen-068A.jpg\" alt=\"\" width=\"187\" height=\"280\"></p>\n<p> </p>",
-            "author": {
-                "name": "Thomas Hillman"
-            },
-            "tags": [
-                   "sv",
-                   "Medlemmar"
-            ],
-            "date_published": "2020-02-22T09:56:42+01:00",
-            "date_modified": "2020-02-22T11:41:14+01:00"
         }
     ]
 }
