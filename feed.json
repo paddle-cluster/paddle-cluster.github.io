@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://paddle-cluster.github.io/publications.html",
+            "url": "https://paddle-cluster.github.io/publications.html",
+            "title": "Publications",
+            "content_html": "<p>\n<script src=\"https://bibbase.org/show?bib=https%3A%2F%2Fpaddle-cluster.github.io%2Fscopus.bib&amp;jsonp=1\"></script>\n</p>",
+            "author": {
+                "name": "Thomas Hillman"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-01T12:33:00+01:00",
+            "date_modified": "2020-03-01T20:13:05+01:00"
+        },
+        {
             "id": "https://paddle-cluster.github.io/drowning-in-forum-posts.html",
             "url": "https://paddle-cluster.github.io/drowning-in-forum-posts.html",
             "title": "Drowning in forum posts",
@@ -150,22 +163,6 @@
             ],
             "date_published": "2020-02-22T09:56:42+01:00",
             "date_modified": "2020-02-22T11:41:14+01:00"
-        },
-        {
-            "id": "https://paddle-cluster.github.io/catarina-player-koro-2.html",
-            "url": "https://paddle-cluster.github.io/catarina-player-koro-2.html",
-            "title": "Catarina Player-Koro",
-            "summary": "<p><a href=\"https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca\">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>\n",
-            "content_html": "<p><a href=\"https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca\">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>\n\n<ul>\n<li><a href=\"https://paddle-cluster.github.io/balanced-2.html\">BalancED</a> (Medforskare)</li>\n</ul>\n<p><img class=\"post__image post__image--center\" style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\" src=\"https://paddle-cluster.github.io/media/posts/32/_MG_1210a1.jpg\" alt=\"\" width=\"246\" height=\"280\"></p>\n<p>C<span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">atarina is currently active in research in the policy fields in studies on policy network formations, connecting public and commercial interests and actors within IT education policy an in investigating the policy effects of the implementation of career pathways for teachers, in Swedish schools.</span></p>",
-            "author": {
-                "name": "Thomas Hillman"
-            },
-            "tags": [
-                   "sv",
-                   "Medlemmar"
-            ],
-            "date_published": "2020-02-22T09:56:42+01:00",
-            "date_modified": "2020-02-22T11:37:41+01:00"
         }
     ]
 }

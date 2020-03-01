@@ -3,12 +3,30 @@
     <title>PADDLE</title>
     <link href="https://paddle-cluster.github.io/feed.xml" rel="self" />
     <link href="https://paddle-cluster.github.io" />
-    <updated>2020-03-01T12:29:57+01:00</updated>
+    <updated>2020-03-01T20:14:04+01:00</updated>
     <author>
         <name>Thomas Hillman</name>
     </author>
     <id>https://paddle-cluster.github.io</id>
 
+    <entry>
+        <title>Publications</title>
+        <author>
+            <name>Thomas Hillman</name>
+        </author>
+        <link href="https://paddle-cluster.github.io/publications.html"/>
+        <id>https://paddle-cluster.github.io/publications.html</id>
+
+        <updated>2020-03-01T20:13:05+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fpaddle-cluster.github.io%2Fscopus.bib&amp;jsonp=1"></script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Drowning in forum posts</title>
         <author>
@@ -301,35 +319,6 @@
 </ul>
 <p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/33/1283094_mona-nilsen-068A.jpg" alt="" width="187" height="280"></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Catarina Player-Koro</title>
-        <author>
-            <name>Thomas Hillman</name>
-        </author>
-        <link href="https://paddle-cluster.github.io/catarina-player-koro-2.html"/>
-        <id>https://paddle-cluster.github.io/catarina-player-koro-2.html</id>
-            <category term="sv"/>
-            <category term="Medlemmar"/>
-
-        <updated>2020-02-22T11:37:41+01:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://idpp.gu.se/english/about-idpp/staff/?languageId=100001&amp;disableRedirect=true&amp;returnUrl=http%3A%2F%2Fidpp.gu.se%2Fom-idpp%2Fpersonal%2F%3FlanguageId%3D100000%26userId%3Dxplaca&amp;userId=xplaca">Catarina Player-Koro</a> is Associate Professor at the Department of Pedagogical, Curricular and Professional Studies at the University of Gothenburg. Her main research interest includes critical sociological studies of educational technology and educational policy studies, with a special interest in teachers work and teacher education.</p>
-
-<ul>
-<li><a href="https://paddle-cluster.github.io/balanced-2.html">BalancED</a> (Medforskare)</li>
-</ul>
-<p><img class="post__image post__image--center" style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://paddle-cluster.github.io/media/posts/32/_MG_1210a1.jpg" alt="" width="246" height="280"></p>
-<p>C<span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">atarina is currently active in research in the policy fields in studies on policy network formations, connecting public and commercial interests and actors within IT education policy an in investigating the policy effects of the implementation of career pathways for teachers, in Swedish schools.</span></p>
             ]]>
         </content>
     </entry>
